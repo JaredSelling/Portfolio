@@ -1,6 +1,14 @@
 body {
-    background: #2C2F34;
+    background: #222222;
     color: #fff;
 }
 
 
+#about {
+    background: #2C2F34;
+    color: white;
+}
+
+#footer {
+    background: #101010;
+}
