@@ -1,15 +1,30 @@
 body {
-    background: #222222;
+    background: #141518;
     color: #fff;
 }
 
 
 #about {
-    background: #2C2F34;
+    background: #141518;
     color: white;
 }
 
 #footer {
     background: #101010;
+}
+
+a {
+    color: #1bb76e;
+}
+
+.panel {
+    background: #35373a;
+    border-radius: 5px;
+    -webkit-box-shadow: 5px 5px 11px 1px #111;
+    
+}
+
+#references-masonry {
+    margin: auto;
 }
 
