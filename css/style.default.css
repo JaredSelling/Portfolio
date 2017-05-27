@@ -776,6 +776,18 @@ FOOTER
 #footer p.social a.email {
   background-color: #4a7f45;
 }
+#footer p.social a.github {
+  background-color: black;
+}
+
+#footer p.social a.linkedin {
+  background-color: darkblue;
+}
+
+#footer p.social a.twitter {
+  background-color: deepskyblue;
+}
+
 @media (max-width: 767px) {
   #footer p.social {
     text-align: center;
